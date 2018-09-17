@@ -3067,7 +3067,6 @@ button:disabled,
   min-height: 100vh;
 }
 
-
 /*.posts1*/
 
 .posts1 {
@@ -3165,7 +3164,6 @@ button:disabled,
   .posts1 article {
     width: calc(50% - 6em);
   }
- 
 
   .posts1 article:nth-last-child(3) {
     margin-bottom: 6em;
@@ -3264,7 +3262,6 @@ button:disabled,
   flex-direction: row-reverse;
   min-height: 100vh;
 }
-
 
 /* Main */
 
